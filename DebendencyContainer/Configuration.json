@@ -1,0 +1,8 @@
+{
+  "Methods": {
+    "DebendencyContainer.DataClass": {
+      "class": "DebendencyContainer.MethodImpl",
+      "Assembly": "DebendencyContainer.dll"
+    }
+  }
+}
